@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 40px;
+    height: 5%;
+  }
+  .name-heiglight{
+      color: blue;
+  }
+  .name{
+      color: orange;
+  }
+  .experiment{
+      color: tomato;
+  }
+  .half-weith
+  {
+      width: 40%;
+      float: left;
+      margin-left: 5%;
+      padding-left: 2%;
+  }
+  .half-weith img{
+      width: 100%;
+  }
+  .top-bannar{
+      background-image: url("image/top-banner.png");
+      background-repeat:no-repeat;
+
+  }
+  section{
+      height: 500px;
+      padding-bottom:150px;
+  }
+  .button{
+      text-decoration: none;
+      background-color:orange;
+      padding: 5px 10px;
+      border-radius: 5px;
+      color: white;
+      font-weight: bold;
+
+  }
+  .Handwritten-digit{
+      background-image: url("image/dream-bg.png");
+      background-repeat: no-repeat;
+      background-position: right;
+  }
+  .single-experiance{
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 10px;
+    height: 80%;
+  }
+ 
